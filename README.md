@@ -5,10 +5,15 @@
 To develop an ATM and Bank Management System that allows users to securely perform basic banking operations like deposits, withdrawals, balance inquiries, and fund transfers.
 # SRS (Procedure):
 i.   Activity Diagram
+
 ii.  Class Diagram
+
 iii. Communication Diagram
+
 iv.  Package Diagram
+
 v.   Sequence Diagram
+
 vi.  Usecase Diagram
 
 # DIAGRAMS:
